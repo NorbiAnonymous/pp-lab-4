@@ -21,4 +21,3 @@ public class Worker extends Employee {
         return "Worker: " + getName() + ", Salary: " + getSalary() + ", Position: " + position;
     }
 }
-
