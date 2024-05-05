@@ -26,5 +26,3 @@ public class Employee {
         return "Employee: " + fullName + ", Salary: " + salary;
     }
 }
-
-
